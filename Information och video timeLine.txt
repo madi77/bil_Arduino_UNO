@@ -1,0 +1,22 @@
+
+1-12 sek.  Servo motor	- Bilen svänger höger-vänster
+13-24 sek.  Steg motor (Stepper) - Bilen kör framåt och bakåt
+25-28 sek.  Servo motor - Bilen svänger höger-vänster
+29-32 sek. Buzzer - Bilen tutar när styrspaken trycks ner
+33 - 46 sek. Mus matta ;)
+
+VG
+47 - 59 sek. - Automatiskt Halvljus: (Med hjälp av Fotoresistor och LED)
+1:05 - 1:32 min - Backvarnare: (Med hjälp Buzzer och avståndsmätare HC-SR04)
+1:33 - 2:02 min - Allt
+
+
+
+Jag kunde ha spinnat på med ännu mer komponenter men jag tror att du kan se att jag har inga problem
+med att använda olika komponeneter tillsammans med arduino uno eller andra MCU;er.
+
+Ett litet projekt som jag har gjort för ca. 6 veckor sedan. (Esp8266 och DHT11, MySQL PHP API).
+https://codedbymadi.net/espdata/esp-data.php
+
+
+
